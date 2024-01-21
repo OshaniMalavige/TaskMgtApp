@@ -1,7 +1,9 @@
 # Installation
 
 1. Clone the repository to your local machine using Git:
+   ```
    https://github.com/OshaniMalavige/TaskMgtApp.git 
+   ```
 
 2. Install dependencies for the backend:
    cd backend
