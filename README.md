@@ -12,7 +12,7 @@
    ```
 
 3. Update the mongoURI:
-   navigate to config/key.js file and update mongoURI="-mongodb-uri"
+   * navigate to backend/config/key.js file and update mongoURI="-mongodb-uri"
 
 4. Start the Backend Server:
    ```
